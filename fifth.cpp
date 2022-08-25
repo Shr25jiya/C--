@@ -9,6 +9,7 @@ int a=1;
 cout<<glo;
 }
 
+
 int main()
 {
     bool bl=true;
