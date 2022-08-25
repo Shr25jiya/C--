@@ -12,6 +12,7 @@ cout<<glo;
 
 int main()
 {
+  sum();
     bool bl=true;
   int glo=7;
   glo=98;
